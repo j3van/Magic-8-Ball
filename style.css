@@ -1,0 +1,11 @@
+html {
+  background-color: darkblue;
+}
+
+body {
+  width: 600px;
+  padding: 100px;
+  margin: auto;
+  color: white;
+  border-radius: 100px;
+}
